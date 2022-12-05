@@ -1,0 +1,8 @@
+.hero h1 {
+    text-align: center;
+    font-size: clamp(32px, 6vw, 64px);
+  }
+
+  img {
+    width: clamp(700px, 100%, 1280px)
+  }
